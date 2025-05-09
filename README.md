@@ -43,3 +43,6 @@ etkileşimli bir makine öğrenmesi uygulamasıdır.
 🖼️ Ev görsellerini dinamik olarak gösterme
 
 📈 Yıllara göre ortalama fiyat trendi analizi
+
+![image](https://github.com/user-attachments/assets/4dd0060c-93bd-46cd-9a73-12e63af67886)
+
